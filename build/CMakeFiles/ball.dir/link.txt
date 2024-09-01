@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/ball.dir/main.cpp.o -o ball  -Wl,-rpath,/usr/local/lib /usr/local/lib/libraylib.so -L/usr/local/lib -lraylib 
